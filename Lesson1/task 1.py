@@ -1,0 +1,5 @@
+name = str(input("Let 's get acquainted ?"))
+print(f'{name}, enter two numbers:')
+x1 = int(input("first number:"))
+x2 = int(input("second number:"))
+print(f'result of addition : {x1+x2}')
